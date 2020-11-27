@@ -1,5 +1,8 @@
 # Hitsu Open Source Project
 
+![hitsu logo](https://i.imgur.com/r9Fdk4S.png)
+
+
 # Hitsu
 
 **Description**: Hitsu is an open-source project with multiple missions: 
